@@ -1,0 +1,1 @@
+wget -O - https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/script/atd5files.sh | sh
