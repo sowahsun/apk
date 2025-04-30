@@ -1,1 +1,4 @@
+命令：
 wget -O - https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/script/atd5files.sh | sh
+
+将文件下载到openwrt软路由，目录：/root/www/
