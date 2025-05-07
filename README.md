@@ -1,2 +1,2 @@
-# apk
-mytv----源自 https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/mytv.apk
+#apk
+mytv源自，https://github.com/mytv-android/mytv-android
